@@ -1506,7 +1506,7 @@ var sketchProc = function(processingInstance) {
                 }
                 
                 xIndex ++; 
-                if (xIndex > 4) {
+                if (xIndex >= 4) {
                     xIndex = 0; 
                     yIndex ++; 
                 }
