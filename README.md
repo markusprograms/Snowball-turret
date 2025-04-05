@@ -15,4 +15,4 @@ Hold the launcher on the left to navigate the turret and release it to make the 
        - Slow down the balls (not recommended)
        - Check collisions more frequently (may cause lag)
 
-![snowball-turret-cover](https://github.com/markusprograms/Snowball-turret/assets/131605571/63aed539-057c-4fe5-9dfa-e85421bf388f)
+![snowball-turret-cover](https://github.com/user-attachments/assets/22ccf693-9d30-4a0a-9ab8-8605c90bd711)
